@@ -1,3 +1,4 @@
+#!/bin/bash 
 read Y
 if ([ $Y = "Y" ] || [ $Y = "y" ] || [ $Y = "YES" ])
 then 

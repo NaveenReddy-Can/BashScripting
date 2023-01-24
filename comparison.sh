@@ -1,3 +1,4 @@
+#!/bin/bash 
 read X
 read Y
 if [ $X -gt $Y ]
